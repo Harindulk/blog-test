@@ -72,7 +72,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Harindulk"
     - label: "Instagram"
-      icon: "<a href="https://icons8.com/icon/80462/github">GitHub icon by Icons8</a>"
+      icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
 footer:
