@@ -64,7 +64,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.harindu.dev"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Harindu_Fonseka"
@@ -72,7 +72,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Harindulk"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "<a href="https://icons8.com/icon/80462/github">GitHub icon by Icons8</a>"
       url: "https://instagram.com/"
 
 footer:
