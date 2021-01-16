@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Harindu Fonseka"
-  avatar : "/assets/images/Harindu.jpg"
+  avatar : "/assets/images/Harindu.svg"
   bio    : "Unity Dev ‖ CSharp "
   links:
     - label: "Website"
