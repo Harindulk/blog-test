@@ -16,9 +16,7 @@
 title: Harindulk - Blog
 email: harindu.dev@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
- Unity Game Dev | CSharp | C++. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Unity Game Dev | CSharp | C++  
 twitter_username: Harindu_Fonseka
 github_username: Harindulk
 minimal_mistakes_skin: default
@@ -60,7 +58,7 @@ plugins:
 author:
   name   : "Harindu Fonseka"
   avatar : "/assets/images/Harindu.svg"
-  bio    : "Unity Dev ‖ CSharp "
+  bio    : "Hari "
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
