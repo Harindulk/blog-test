@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
+
 <h1 align="center">Hi 👋, I'm Harindu Fonseka</h1>
 <h3 align="center">Student</h3>
 
@@ -14,9 +15,6 @@ title: "About"
 
 - 📄 Know about my experiences [https://www.harindu.dev/About.html](https://www.harindu.dev/About.html)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
