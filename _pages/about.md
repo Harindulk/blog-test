@@ -3,6 +3,30 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+<h1 align="center">Hi 👋, I'm Harindu Fonseka</h1>
+<h3 align="center">Student</h3>
+
+- 🌱 I’m currently learning **bootstrap**
+
+- 📝 I regularly write articles on [https://www.harindu.dev/](https://www.harindu.dev/)
+
+- 📫 How to reach me **harindu.dev@outlook.com**
+
+- 📄 Know about my experiences [https://www.harindu.dev/About.html](https://www.harindu.dev/About.html)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/harindullk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="harindullk" height="30" width="40" /></a>
+<a href="https://twitter.com/harindu_fonseka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="harindu_fonseka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harindulk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harindulk" height="30" width="40" /></a>
+<a href="https://dribbble.com/harindulk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="harindulk" height="30" width="40" /></a>
+
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Harindulk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Harindulk" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harindulk&show_icons=true&locale=en&layout=compact" alt="harindulk" /></p>
+
